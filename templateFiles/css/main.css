@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+input, select, textarea, input[type='submit'] {
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 50px;
+    background: #efefef;
+    border-radius: 3px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    font-family: inherit;
+}
+select {
+    color: #6b6b6b;
+}
